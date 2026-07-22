@@ -209,27 +209,6 @@ Explore temporal data and build forecasting models for time-dependent datasets.
 - Temporal Data Visualization
 
 ---
-
-# Repository Structure
-
-```
-Core-Machine-Learning-Projects/
-
-│
-
-├── California_Housing_Price_Prediction/
-
-├── Outlier_Detection_Elliptic_Envelope/
-
-├── Breast_Cancer_Classification/
-
-├── Time_Series_Forecasting/
-
-└── README.md
-```
-
----
-
 # What This Repository Demonstrates
 
 - End-to-End Machine Learning Workflows
